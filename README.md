@@ -1,6 +1,6 @@
 # Foodblog
 This project was created in 2018.
-This is a simple Food blog created for a restaurant to showcase their menu. There is a feedback section included for the users to give and reviews.
+This is a simple Food blog created for a restaurant to showcase their menu. There is a feedback section included for the users to give and reviews. Our hypothetical restaurants name is FooDee.
 
 Requirement:
 i) Python 3.7
