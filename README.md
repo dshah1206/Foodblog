@@ -1,18 +1,20 @@
 # Foodblog
-This project was created in 2018.
-This is a simple Food blog created for a restaurant to showcase their menu. There is a feedback section included for the users to give and reviews. Our hypothetical restaurants name is FooDee.
+This project was developed in 2018. This is a simple food blog created for a restaurant to showcase its menu. There is a feedback section that allows users to give feedback and review. Our hypothetical name for restaurant is FooDee.
 
-Requirement:
-i) Python 3.7
-ii) pip 19.0 and above
-iii) django 1.10 and above
+## Requirements:
+1) Python 3.7 or higher version
+2) pip 19.0 or higher version
+3) Django 1.10 or higher version
 
-How to run:
-i) Open command prompt and cd into the directory.
-ii) Run: python manage.py runserver 
-iii) A development server's url will be displayed. 
-iv) Copy, paste the url in the chrome browser and add .../food in the end or .../admin in the end.
+## Startup:
+1) Open command prompt and cd into the directory.
+2) Execute the following command: *python manage.py runserver* 
+3) Development server url will be displayed in the command prompt. 
+4) Copy and paste the url in the browser(Recommended: Chrome).
+5) Add .../food or .../admin to route to the particular page.
 
-Make the following changes: such as creating an authentic admin profile, database, etc.
+
+
+
 
 
